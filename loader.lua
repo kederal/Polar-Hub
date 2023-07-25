@@ -1,4 +1,4 @@
-local gh = 'https://github.com/kederal/Polar-Hub/blob/main/Supported-Games/'
+local gh = 'https://raw.githubusercontent.com/kederal/Polar-Hub/main/Supported-Games/'
 
 local SupportedGames = {
     [3183403065] = 'AnimeAdventures'
